@@ -1,7 +1,7 @@
 # TODO:
 # - small binary to run ;)
 Summary:	Plotting library written in Ruby
-Summary(pl):	Biblioteka do rysowania w Rubym
+Summary(pl.UTF-8):   Biblioteka do rysowania w Rubym
 Name:		mrplot
 Version:	0.0.1
 Release:	0.1
@@ -20,10 +20,10 @@ mrplot is a general purpose plotting library written completely in
 ruby. It has an interface to output plots using RMagick and can be
 easily extended to support other output modules.
 
-%description -l pl
-mrplot to biblioteka ogÛlnego przeznaczenia do rysowania wykresÛw.
-Dostarcza interfejs do tworzenia wykresÛw przy uøyciu RMagick i jest
-≥atwo rozszerzalna na obs≥ugÍ innych modu≥Ûw.
+%description -l pl.UTF-8
+mrplot to biblioteka og√≥lnego przeznaczenia do rysowania wykres√≥w.
+Dostarcza interfejs do tworzenia wykres√≥w przy u≈ºyciu RMagick i jest
+≈Çatwo rozszerzalna na obs≈Çugƒô innych modu≈Ç√≥w.
 
 %prep
 %setup -q
