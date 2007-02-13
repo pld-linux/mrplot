@@ -1,7 +1,7 @@
 # TODO:
 # - small binary to run ;)
 Summary:	Plotting library written in Ruby
-Summary(pl.UTF-8):   Biblioteka do rysowania w Rubym
+Summary(pl.UTF-8):	Biblioteka do rysowania w Rubym
 Name:		mrplot
 Version:	0.0.1
 Release:	0.1
